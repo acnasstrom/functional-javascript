@@ -6,7 +6,7 @@ Requires Node > 5
 
 ## Installation
 
-    $ npm use
+    $ nvm use
     $ npm install -g functional-javascript-workshop@latest
 
 ## Run the UI
